@@ -25,14 +25,11 @@
 ## 💓 CardioVue Machine Learning Engineer
 
 Developed a novel ML system for real-time detection of cardiac pathologies from raw ECG signals, achieving clinical-grade performance metrics.
-
+[![Visit Website](https://img.shields.io/badge/Visit_CardioVue-Website-FF6F00?style=for-the-badge&logo=heart&logoColor=white)](https://www.cardiovue.ca/)
 ### 🚀 Key Achievements
 *   ✅ **High Accuracy:** Achieved **90%+ accuracy** in pathology detection on held-out test sets.
 *   ⚕️ **Clinical Relevance:** Attained a **90%+ F1-score**, demonstrating robust precision and recall balanced for medical use.
 *   ⏱️ **Real-Time Capable:** Engineered the system for efficient, low-latency inference.
-
-### 🛠️ Tech Stack
-`Python` `TensorFlow` `Pandas` `NumPy` `Scikit-learn` `HDF5`
 
 ### 🤝 Teamwork & Role
 *   **Lead ML Engineer:** Collaborated with a cross-functional team, dividing research and implementation tasks. Validated ideas through experimentation.
@@ -53,6 +50,7 @@ A high-performance, from-scratch implementation of DeepMind's AlphaZero algorith
 ### 🔮 Future Work
 *   Exploring **Gumbel AlphaZero** for faster policy improvements.
 *   Investigating **MuZero**-like capabilities for environments without a perfect simulator.
+*   MCTS with virtual loss for parallelized tree search.
 
 ### 👥 Teamwork
 *   Led a team of 6 to develop and integrate multiple game environments.
