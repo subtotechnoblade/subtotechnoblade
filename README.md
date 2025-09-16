@@ -1,6 +1,6 @@
 ## Hi there, I'm Brian 👋
 
-##🚀 About Me
+## 🚀 About Me
 - I'm a second year software engineer @ Seneca Polytechnic
 - Machine Learning Engineer @ CardioVue
 - Passionate on creating AI systems and new architectures
