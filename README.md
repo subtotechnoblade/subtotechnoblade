@@ -23,6 +23,21 @@
 
 
 
+### 🚀 Key Features & Innovations
+*   ⚡ **High-Performance MCTS:** Optimized with implicit node trees (10x memory reduction) and Numba JIT (12.5% speedup).
+*   🌐 **Distributed Inference:** Multi-worker self-play with a central inference server for 3x faster data generation.
+*   🚀 **Efficient Deployment:** ONNX Runtime & TensorRT integration for ultra-low latency inference.
+*   🎮 **Generalizable:** Applied to Tic-Tac-Toe, Connect4, and Gomoku.
+
+### 🔮 Future Work
+*   Exploring **Gumbel AlphaZero** for improved exploration.
+*   Investigating **MuZero**-like capabilities for environments without a perfect simulator.
+
+### 👥 Teamwork
+*   Led a team of 6 to develop and integrate multiple game environments using Agile methodologies.
+
+### 📚 Citation
+
 <!--
 **subtotechnoblade/subtotechnoblade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
