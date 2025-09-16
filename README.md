@@ -11,9 +11,11 @@ I'm always open to discussing exciting research opportunities, collaborative pro
 
 ## 🚀 About Me
 - I'm a second year software engineer @ Seneca Polytechnic
+- Self taught programmer and machine learning engineer for 3+ years
 - Machine Learning Engineer @ CardioVue
 - Passionate on creating AI systems and new architectures
 - Esteemed Local Priest from the Church of Tensorflow
+- Favorite library: Onnx Runtime & TensorRT (literal life saver, so much performance squeezed out)
 
 ## 🛠️ Tech Stack
 
@@ -26,6 +28,7 @@ I'm always open to discussing exciting research opportunities, collaborative pro
 ![CSS3](https://a11ybadges.com/badge?logo=css3)
 
 **Ml/DL FrameWorks:**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -71,17 +74,11 @@ A high-performance, from-scratch implementation of DeepMind's AlphaZero algorith
 *   Led a team of 6 to develop and integrate multiple game environments.
 
 
-<!--
-**subtotechnoblade/subtotechnoblade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ Fun Facts & Other Pursuits
+When I'm not training models or optimizing code, you can find me:
+*   🔌 **Tinkering with Hardware:** Applying my background in electrical engineering to build and troubleshoot high-performance PCs.
+*   📈 **Analyzing the Markets:** Applying data-driven strategies as a retail trader. (Buy NVDA stock, trust me it will go up!)
+*   🖥️ **Building Rigs:** I'm a dedicated computer hardware enthusiast, always keeping up with the latest in CPU and GPU architecture.
 
-Here are some ideas to get you started:
+*P.S. I'm always down to talk about tech, markets, or the latest in hardware!*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
