@@ -22,21 +22,41 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 
+## 💓 Lead CardioVue Machine Learning Engineer
+
+Developed a novel ML system for real-time detection of cardiac pathologies from raw ECG signals, achieving clinical-grade performance metrics.
+
+### 🚀 Key Achievements
+*   ✅ **High Accuracy:** Achieved **90%+ accuracy** in pathology detection on held-out test sets.
+*   ⚕️ **Clinical Relevance:** Attained a **90%+ F1-score**, demonstrating robust precision and recall balanced for medical use.
+*   ⏱️ **Real-Time Capable:** Engineered the system for efficient, low-latency inference.
+
+### 🛠️ Tech Stack
+`Python` `TensorFlow` `Pandas` `NumPy` `Scikit-learn` `HDF5`
+
+### 🤝 Teamwork & Role
+*   **Lead ML Engineer:** Collaborated with a cross-functional team, dividing research and implementation tasks. Validated ideas through experimentation.
+
+
+## 🔬 AlphaZero Research Framework
+
+A high-performance, from-scratch implementation of DeepMind's AlphaZero algorithm, featuring significant optimizations in memory, speed, and distributed computing along with many more ideas. 
+
+[![Explore the Code](https://img.shields.io/badge/Explore_AlphaZero-Repo-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subtotechnoblade/Grok_Alpha_Zero)
 
 ### 🚀 Key Features & Innovations
 *   ⚡ **High-Performance MCTS:** Optimized with implicit node trees (10x memory reduction) and Numba JIT (12.5% speedup).
 *   🌐 **Distributed Inference:** Multi-worker self-play with a central inference server for 3x faster data generation.
-*   🚀 **Efficient Deployment:** ONNX Runtime & TensorRT integration for ultra-low latency inference.
+*   🚀 **Efficient Game Generation:** ONNX Runtime & TensorRT integration for ultra-low latency inference.
 *   🎮 **Generalizable:** Applied to Tic-Tac-Toe, Connect4, and Gomoku.
 
 ### 🔮 Future Work
-*   Exploring **Gumbel AlphaZero** for improved exploration.
+*   Exploring **Gumbel AlphaZero** for faster policy improvements.
 *   Investigating **MuZero**-like capabilities for environments without a perfect simulator.
 
 ### 👥 Teamwork
-*   Led a team of 6 to develop and integrate multiple game environments using Agile methodologies.
+*   Led a team of 6 to develop and integrate multiple game environments.
 
-### 📚 Citation
 
 <!--
 **subtotechnoblade/subtotechnoblade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
