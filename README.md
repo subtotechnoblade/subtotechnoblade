@@ -1,5 +1,14 @@
 ## Hi there, I'm Brian 👋
 
+## 📫 Let's Connect
+
+I'm always open to discussing exciting research opportunities, collaborative projects, or potential roles.
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brian8204001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-wu-54b971327/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subtotechnoblade)
+
+
 ## 🚀 About Me
 - I'm a second year software engineer @ Seneca Polytechnic
 - Machine Learning Engineer @ CardioVue
@@ -8,11 +17,15 @@
 
 ## 🛠️ Tech Stack
 
-**Languages and Libraries:**
+**Languages:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://a11ybadges.com/badge?logo=html5)
+![CSS3](https://a11ybadges.com/badge?logo=css3)
+
+**Ml/DL FrameWorks:**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
