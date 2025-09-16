@@ -22,7 +22,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 
-## 💓 Lead CardioVue Machine Learning Engineer
+## 💓 CardioVue Machine Learning Engineer
 
 Developed a novel ML system for real-time detection of cardiac pathologies from raw ECG signals, achieving clinical-grade performance metrics.
 
