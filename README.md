@@ -37,6 +37,7 @@ I'm always open to discussing exciting research opportunities, collaborative pro
 ![Numba](https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=numba&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+![NN](https://miro.medium.com/1*63sGPbvLLpvlD16hG1bvmA.gif)
 
 ## 💓 CardioVue Machine Learning Engineer
 
