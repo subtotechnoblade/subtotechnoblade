@@ -46,8 +46,8 @@ Developed a novel ML system for real-time detection of cardiac pathologies from 
 [![Visit Website](https://img.shields.io/badge/Visit_CardioVue-Website-FF6F00?style=for-the-badge&logo=heart&logoColor=white)](https://www.cardiovue.ca/)
 
 ### 🚀 Key Achievements
-*   ✅ **High Accuracy:** Achieved **90%+ accuracy** in pathology detection on held-out test sets.
-*   ⚕️ **Clinical Relevance:** Attained a **90%+ F1-score**, demonstrating robust precision and recall balanced for medical use.
+*   ✅ **High Accuracy:** Achieved **0.99 AUROC** in pathology detection on held-out test sets.
+*   ⚕️ **Clinical Relevance:** Attained a **0.77 AUPRC**, demonstrating robust precision and recall balanced for medical use on a highly imbalanced dataset.
 *   ⏱️ **Real-Time Capable:** Engineered the system for efficient, low-latency inference.
 
 ### 🤝 Teamwork & Role
@@ -61,7 +61,7 @@ A high-performance, from-scratch implementation of DeepMind's AlphaZero algorith
 [![Explore the Code](https://img.shields.io/badge/Explore_AlphaZero-Repo-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subtotechnoblade/Grok_Alpha_Zero)
 
 ### 🚀 Key Features & Innovations
-*   ⚡ **High-Performance MCTS:** Optimized with implicit node trees (10x memory reduction) and Numba JIT (12.5% speedup).
+*   ⚡ **High-Performance MCTS:** Optimized with implicit node trees (2x memory reduction) and Numba JIT (120x speedup).
 *   🌐 **Distributed Inference:** Multi-worker self-play with a central inference server for 3x faster data generation.
 *   🚀 **Efficient Game Generation:** ONNX Runtime & TensorRT integration for ultra-low latency inference.
 *   🎮 **Generalizable:** Applied to Tic-Tac-Toe, Connect4, and Gomoku.
@@ -70,10 +70,6 @@ A high-performance, from-scratch implementation of DeepMind's AlphaZero algorith
 *   Exploring **Gumbel AlphaZero** for faster policy improvements.
 *   Investigating **MuZero**-like capabilities for environments without a perfect simulator.
 *   MCTS with virtual loss for parallelized tree search.
-
-### 👥 Teamwork
-*   Led a team of 6 to develop and integrate multiple game environments.
-
 
 ## ⚡ Fun Facts & Other Pursuits
 When I'm not training models or optimizing code, you can find me:
