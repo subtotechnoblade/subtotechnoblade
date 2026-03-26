@@ -63,7 +63,7 @@ A high-performance, from-scratch implementation of DeepMind's AlphaZero algorith
 *   ⚡ **High-Performance MCTS:** Optimized with implicit node trees (2x memory reduction) and Numba JIT (120x speedup).
 *   🌐 **Distributed Inference:** Multi-worker self-play with a central inference server for 3x faster data generation.
 *   🚀 **Efficient Game Generation:** ONNX Runtime & TensorRT integration for ultra-low latency inference.
-*   🎮 **Generalizable:** Applied to Tic-Tac-Toe, Connect4, and Gomoku.
+*   🎮 **Generalizable:** Applied to Tic-Tac-Toe, Connect4, and Gomoku. Achieves master level play!
 
 ### 🔮 Future Work
 *   Exploring **Gumbel AlphaZero** for faster policy improvements.
