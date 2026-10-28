@@ -10,7 +10,7 @@ I'm always open to discussing exciting research opportunities, collaborative pro
 
 
 ## 🚀 About Me
-- I'm a second year software engineer @ Seneca Polytechnic
+- I'm a third year software engineer @ Seneca Polytechnic
 - Self taught programmer and machine learning engineer for 4+ years
 - Machine Learning Engineer @ CardioVue
 - Passionate on creating AI systems and new architectures
