@@ -73,7 +73,7 @@ A high-performance, from-scratch implementation of DeepMind's AlphaZero algorith
 ## ⚡ Fun Facts & Other Pursuits
 When I'm not training models or optimizing code, you can find me:
 *   🔌 **Tinkering with Hardware:** Applying my background in electrical engineering to build and troubleshoot high-performance PCs.
-*   📈 **Analyzing the Markets:** Applying data-driven strategies as a retail trader. Trading the 15m ORB based on my deep statistical anaylsis.
+*   📈 **Analyzing the Markets:** Applying data-driven strategies as a retail trader. Trading the 15m ORB based on my deep statistical analysis.
 *   🖥️ **Building Rigs:** I'm a dedicated computer hardware enthusiast, always keeping up with the latest in CPU and GPU architecture.
 
 *P.S. I'm always down to talk about tech, markets, or the latest in hardware!*
