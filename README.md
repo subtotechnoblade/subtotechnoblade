@@ -12,9 +12,9 @@ I'm always open to discussing exciting research opportunities, collaborative pro
 ## 🚀 About Me
 - I'm a third year software engineer @ Seneca Polytechnic
 - Self taught programmer and machine learning engineer for 4+ years
-- Machine Learning Engineer @ CardioVue
-- Passionate on creating AI systems and new architectures
-- Favorite library: Onnx Runtime & TensorRT
+- Passionate on creating AI systems, new architectures, RL (Alpha Zero, PPO).
+- Favorite library: OnnxRuntime & TensorRT
+- Quantitative Finance and Trading
 
 ## 🛠️ Tech Stack
 
